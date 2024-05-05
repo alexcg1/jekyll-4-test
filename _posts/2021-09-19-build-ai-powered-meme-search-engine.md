@@ -1,6 +1,6 @@
 ---
 title: Building a search engine for meme captions
-splash_img_source: /assets/img/meme-search-notebook/cover.jpg
+image: /assets/img/meme-search-notebook/cover.jpg
 tags: [python, neural search, Jina, deep learning, nlp, natural language processing, ai]
 layout: post
 ---

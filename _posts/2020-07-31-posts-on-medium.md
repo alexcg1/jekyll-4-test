@@ -1,7 +1,7 @@
 ---
 title: New Posts on Medium
 tags: [blog, medium, meta]
-splash_img_source: /assets/img/medium-logo.png
+image: /assets/img/medium-logo.png
 layout: post
 ---
 

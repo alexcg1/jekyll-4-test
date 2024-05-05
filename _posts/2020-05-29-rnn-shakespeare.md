@@ -1,7 +1,7 @@
 ---
 title: "Writing Shakespeare with an RNN"
 tags: [shakespeare, machine learning, rnn, python, tensorflow]
-splash_img_source: /assets/img/shakespeare.jpg
+image: /assets/img/shakespeare.jpg
 layout: post
 ---
 

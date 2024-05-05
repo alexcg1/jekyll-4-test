@@ -1,7 +1,7 @@
 ---
 title: "Almost a Slashfic: Kirk and Spock drinking beer"
 layout: post
-splash_img_source: /assets/img/spock.jpg
+image: /assets/img/spock.jpg
 splash_img_caption: https://www.flickr.com/photos/jdhancock/8933306274
 tags: [star trek, nlp, transformers]
 ---

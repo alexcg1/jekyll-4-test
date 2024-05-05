@@ -1,7 +1,7 @@
 ---
 title: Avenging Trek Wars
 splash_img_caption: https://unsplash.com/photos/X_d7m2r70bA
-splash_img_source: /assets/img/clapboard.jpg
+image: /assets/img/clapboard.jpg
 tags: [nlp, machine learning, deep learning, transformers, python]
 layout: post
 ---

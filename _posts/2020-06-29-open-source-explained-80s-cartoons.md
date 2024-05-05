@@ -1,7 +1,7 @@
 ---
 title: Open Source Explained with 1980's Cartoons
 layout: post
-splash_img_source: /assets/img/open_source/thundercats.png
+image: /assets/img/open_source/thundercats.png
 sticky: true
 ---
 
