@@ -2,6 +2,7 @@
 layout: page
 title: README
 subtitle: Congratulations on your purchase of the latest model of Alex C-G. Please enjoy this user manual
+permalink: /about/
 ---
 
 **Note:** This about page is super out of date. I need to get around to updating it.
