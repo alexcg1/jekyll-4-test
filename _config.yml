@@ -28,7 +28,7 @@ github_username: alexcg1
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-so-simple
+#theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 #remote_theme: mmistakes/minimal-mistakes
 #remote_theme: benbalter/retlab
