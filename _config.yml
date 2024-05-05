@@ -61,7 +61,7 @@ show_excerpts: true
 # So Simple theme stuff
 read_time: true
 words_per_minute: 200
-paginate: 10  # amount of posts to show per page
+paginate: 9  # amount of posts to show per page
 paginate_path: /page/:num/
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
