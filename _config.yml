@@ -81,5 +81,3 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 copyright: "2018-2024 Alex C-G"
-site:
-  logo: "/images/me.jpg"
