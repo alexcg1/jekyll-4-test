@@ -27,7 +27,8 @@ twitter_username: alexcg
 github_username: alexcg1
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-so-simple
 #remote_theme: mmistakes/minimal-mistakes
 #remote_theme: benbalter/retlab
 
@@ -35,11 +36,12 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-paginate
 
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/alexcg1" }
-    - { platform: twitter, user_url: "https://twitter.com/alexcg" }
+#minima:
+  #social_links:
+    #- { platform: github,  user_url: "https://github.com/alexcg1" }
+    #- { platform: twitter, user_url: "https://twitter.com/alexcg" }
 
 show_excerpts: true
 
@@ -62,3 +64,29 @@ show_excerpts: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#
+# So Simple theme stuff
+read_time: true
+words_per_minute: 200
+paginate: 10  # amount of posts to show per page
+paginate_path: /page/:num/
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+search_full_content: true
+author:
+  name: Alex C-G
+  twitter: alexcg
+  picture: /images/me.jpg
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/alexcg
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/alexcg1
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+copyright: "2018-2024 Alex C-G"
+site:
+  logo: "/images/me.jpg"

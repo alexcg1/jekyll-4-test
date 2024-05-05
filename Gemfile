@@ -17,7 +17,9 @@ gem 'minima', '~> 2.5'
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.12'
   gem 'jekyll-include-cache'
+  gem 'jekyll-paginate'
   gem 'jekyll-remote-theme'
+  gem 'jekyll-theme-so-simple'
   gem 'jekyll-timeago', '~> 0.13.1'
 end
 
