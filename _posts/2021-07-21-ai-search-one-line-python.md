@@ -1,6 +1,6 @@
 ---
 title: An AI-powered search engine in just one line of (stupidly dangerous) Python
-splash_img_source: /assets/img/one-line/cover.png
+image: /assets/img/one-line/cover.png
 tags: [python, neural search, Jina]
 layout: post
 ---

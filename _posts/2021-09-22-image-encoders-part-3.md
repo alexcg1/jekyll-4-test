@@ -1,6 +1,6 @@
 ---
 title: "Image Encoders Part Trois: In which CLIP discovers the transitive property"
-splash_img_source: /assets/img/image-encoders-3/cover.jpg
+image: /assets/img/image-encoders-3/cover.jpg
 tags: [python, neural search, Jina, deep learning, clip, images]
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
 title: Analytics on alexcg.net
-splash_img_source: /assets/img/analytics/cover.jpg
+image: /assets/img/analytics/cover.jpg
 tags: [analytics, meta]
 layout: post
 ---
