@@ -1,6 +1,6 @@
 ---
 title: "Using Linux on Android as a Daily Driver"
-tags: "linux, android, tablet, samsung, open-source"
+tags: linux, android, tablet, samsung, open-source
 ---
 
 # Note
